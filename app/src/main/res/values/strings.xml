@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CredAppTest</string>
+    <string name="card_error">Card info not found</string>
+    <string name="card_placeholder">XXXX XXXX XXXX XXXX</string>
+</resources>

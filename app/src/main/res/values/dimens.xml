@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="separation16">16dp</dimen>
+    <dimen name="cardNumberTxt">20sp</dimen>
+    <dimen name="errorTxt">14sp</dimen>
+</resources>
